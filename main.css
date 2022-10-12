@@ -1,0 +1,27 @@
+@font-face{font-family:'BourgeoisUltra';src:url('https://rocketleague.media.zestyio.com/Bourgeois-Ultra.otf')}@font-face{font-family:'BourgeoisBold';src:url('https://rocketleague.media.zestyio.com/Bourgeois-Bold.otf')}
+
+body {
+  font-family:'BourgeoisUltra', cursive;
+}
+
+.card-group {
+  margin: 2%;
+}
+
+.card {
+  margin: 2%;
+}
+.carousel-item {
+  margin: 1%;
+  color: white;
+}
+
+.row {
+  color: white;
+}
+
+.Heading {
+  text-align: center;
+  color: white;
+  font-size: 100px;
+}
